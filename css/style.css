@@ -1,0 +1,11 @@
+.nav-item nav-link {
+    float: right;
+}
+
+#footer {
+	bottom: 0;
+	width: 100%;
+	position: fixed;
+	height: 50px;
+	line-height: 50px;
+}
